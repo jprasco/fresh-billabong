@@ -1,7 +1,8 @@
 # fresh-billabong
 Don't mind me. I'm just experimenting here. I have no idea how to navigate GitHub
 
-Hopefully this will eventually be a madlib-style adlib program with a nifty little 
-app design and all that jaz but right now it is just running in the terminal window.
+I'm just storing all of my silly little programs in here. They don't do much but 
+they are sort of fun. I for realsies don't know what the end goal is, but it could
+be fun.
 
-pls don't commit any crimes with it
+pls don't commit any crimes with my code
